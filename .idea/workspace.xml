@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0af889ea-dcc4-4c5c-824d-99927d76d2c3" name="Changes" comment="comit overflow consultarMovil" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dGHGKcLknx69DKKcoX95GcVrlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Matias/Documents/ESCRITORIO/SistemaNotificacionesISBM",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Matias\Documents\ESCRITORIO\Proyectos\Telecar\lib" />
+      <recent name="C:\Users\Matias\Documents\ESCRITORIO\Proyectos\Telecar\src\main\java\com\institucion\demo\Institucion\lib" />
+      <recent name="C:\Users\Matias\Documents\ESCRITORIO\Proyectos\Telecar\src\main\java\com\institucion\demo\Institucion" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoInstitucionApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.institucion.demo.Institucion.DemoInstitucionApplication" />
+      <module name="Telecar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.institucion.demo.Institucion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoInstitucionApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af889ea-dcc4-4c5c-824d-99927d76d2c3" name="Changes" comment="" />
+      <created>1709627397157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709627397157</updated>
+    </task>
+    <task id="LOCAL-00001" summary="comit overflow consultarMovil">
+      <created>1709627998383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709627998384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comit overflow consultarMovil">
+      <created>1709628318842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709628318842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comit overflow consultarMovil">
+      <created>1709629007540</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709629007540</updated>
+    </task>
+    <task id="LOCAL-00004" summary="comit overflow consultarMovil">
+      <created>1709631493621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709631493621</updated>
+    </task>
+    <task id="LOCAL-00005" summary="comit overflow consultarMovil">
+      <created>1709631543864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709631543864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="comit overflow consultarMovil">
+      <created>1709631774736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709631774736</updated>
+    </task>
+    <task id="LOCAL-00007" summary="comit overflow consultarMovil">
+      <created>1709632406250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709632406250</updated>
+    </task>
+    <task id="LOCAL-00008" summary="comit overflow consultarMovil">
+      <created>1709632848310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709632848310</updated>
+    </task>
+    <task id="LOCAL-00009" summary="comit overflow consultarMovil">
+      <created>1709689953078</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709689953078</updated>
+    </task>
+    <task id="LOCAL-00010" summary="comit overflow consultarMovil">
+      <created>1709690383663</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709690383663</updated>
+    </task>
+    <task id="LOCAL-00011" summary="comit overflow consultarMovil">
+      <created>1709690688069</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709690688069</updated>
+    </task>
+    <task id="LOCAL-00012" summary="comit overflow consultarMovil">
+      <created>1709690943249</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709690943249</updated>
+    </task>
+    <task id="LOCAL-00013" summary="comit overflow consultarMovil">
+      <created>1709691343892</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709691343892</updated>
+    </task>
+    <task id="LOCAL-00014" summary="comit overflow consultarMovil">
+      <created>1709691729471</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709691729471</updated>
+    </task>
+    <task id="LOCAL-00015" summary="comit overflow consultarMovil">
+      <created>1709691965024</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709691965024</updated>
+    </task>
+    <task id="LOCAL-00016" summary="comit overflow consultarMovil">
+      <created>1709692174074</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709692174074</updated>
+    </task>
+    <task id="LOCAL-00017" summary="comit overflow consultarMovil">
+      <created>1709692422830</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709692422830</updated>
+    </task>
+    <task id="LOCAL-00018" summary="comit overflow consultarMovil">
+      <created>1711823661263</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711823661263</updated>
+    </task>
+    <task id="LOCAL-00019" summary="comit overflow consultarMovil">
+      <created>1711824096662</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711824096662</updated>
+    </task>
+    <task id="LOCAL-00020" summary="comit overflow consultarMovil">
+      <created>1711824898789</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711824898789</updated>
+    </task>
+    <task id="LOCAL-00021" summary="comit overflow consultarMovil">
+      <created>1711825642757</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711825642757</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="comit overflow consultarMovil" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit overflow consultarMovil" />
+  </component>
+</project>
